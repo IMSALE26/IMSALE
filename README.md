@@ -9,7 +9,7 @@
   <section class="max-w-md mx-auto bg-white rounded-2xl shadow-lg p-4 mt-6">
     <img src="https://via.placeholder.com/300" alt="Sale Pisang" class="rounded-xl mb-4">
     <h2 class="text-xl font-semibold">Keripik Pisang Kering 300g</h2>
-    <p class="text-gray-600">Camilan manis alami khas Wonosobo</p>
+    <p class="text-gray-600">Camilan manis alami dari pisang pilihan</p>
     <p class="text-lg font-bold mt-2">Rp 15.000</p>
   </section>
 
