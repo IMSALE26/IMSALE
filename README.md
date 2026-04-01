@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -45,7 +45,7 @@
         Chat WhatsApp
       </button>
 
-      <a href="https://instagram.com/imsale" target="_blank" class="block w-full bg-gradient-to-r from-pink-500 to-purple-500 text-white p-3 rounded-2xl font-bold shadow-md">
+      <a href="https://instagram.com/imsale_kripikpisangkering" target="_blank" class="block w-full bg-gradient-to-r from-pink-500 to-purple-500 text-white p-3 rounded-2xl font-bold shadow-md">
         Kunjungi Instagram
       </a>
     </div>
@@ -58,7 +58,7 @@
 
     function orderNow() {
       const message = `Halo, saya ingin pesan IMSALE 🍌`;
-      const phone = '6281234567890';
+      const phone = '6282182167104';
     
 
 </body>
