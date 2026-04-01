@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+  
+  
 </head>
 <body class="bg-gradient-to-br from-yellow-100 to-orange-200 font-sans">
 
@@ -45,7 +46,7 @@
         Chat WhatsApp
       </button>
 
-      <a href="https://instagram.com/imsale_kripikpisangkering" target="_blank" class="block w-full bg-gradient-to-r from-pink-500 to-purple-500 text-white p-3 rounded-2xl font-bold shadow-md">
+      <a href="https://www.instagram.com/imsale_kripikpisangkering?igsh=enA2Yzh4emhjNWth" target="_blank" class="block w-full bg-gradient-to-r from-pink-500 to-purple-500 text-white p-3 rounded-2xl font-bold shadow-md">
         Kunjungi Instagram
       </a>
     </div>
@@ -56,10 +57,14 @@
     © 2026 IMSALE - Wonosobo
   </footer>
 
+
+  <script>
     function orderNow() {
       const message = `Halo, saya ingin pesan IMSALE 🍌`;
-      const phone = '6282182167104';
-    
+      const phone = '6281234567890';
+     
+    }
+
 
 </body>
 </html>
