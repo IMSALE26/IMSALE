@@ -3,8 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>IMSALE - Keripik Pisang</title>
-  <script src="https://cdn.tailwindcss.com"></script>
+
 </head>
 <body class="bg-gradient-to-br from-yellow-100 to-orange-200 font-sans">
 
@@ -57,14 +56,10 @@
     © 2026 IMSALE - Wonosobo
   </footer>
 
-  <!-- Script -->
-  <script>
     function orderNow() {
       const message = `Halo, saya ingin pesan IMSALE 🍌`;
       const phone = '6281234567890';
-      window.open(`https://wa.me/${phone}?text=${encodeURIComponent(message)}`);
-    }
-  </script>
+    
 
 </body>
 </html>
