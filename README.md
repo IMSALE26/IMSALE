@@ -8,7 +8,10 @@
 </head>
 <body class="bg-yellow-50 font-sans">
 
-
+  <!-- Header -->
+  <header class="bg-orange-500 text-white p-4 text-center text-2xl font-bold">
+    IMSALE 🍌
+  </header>
 
   <!-- Produk -->
   <section class="max-w-md mx-auto bg-white rounded-2xl shadow-lg p-4 mt-6">
