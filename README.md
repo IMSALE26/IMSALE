@@ -173,13 +173,13 @@ Terbuat dari pisang siem pilihan dengan rasa manis alami,
 renyah, sehat, dan cocok untuk pasar lokal maupun ekspor.
 </p>
 
-<a href="https://wa.me/62895379068124" class="btn">
+<a href="https://wa.me/6282182167104" class="btn">
 Pesan Sekarang
 </a>
 </div>
 
 <div class="hero-image">
-<img src="https://images.unsplash.com/photo-1603046891744-76e6300f8f7b?w=800" alt="Sale Pisang">
+<img src="foto.5">
 </div>
 
 </header>
@@ -193,7 +193,7 @@ Tentang IMSALE
 <div class="about">
 
 <div>
-<img src="https://images.unsplash.com/photo-1571115764595-644a1f56a55c?w=800">
+<img src="foto.4">
 </div>
 
 <div>
@@ -259,9 +259,9 @@ Galeri Produk
 
 <div class="gallery">
 
-<img src="https://images.unsplash.com/photo-1571506165871-ee72a35bc9d4?w=800">
-<img src="https://images.unsplash.com/photo-1576618148400-f54bed99fcfd?w=800">
-<img src="https://images.unsplash.com/photo-1603048297172-c92544798d5a?w=800">
+<img src="foto.1">
+<img src="foto.2">
+<img src="foto.3">
 
 </div>
 
@@ -288,7 +288,7 @@ Berat Bersih 300 Gram
 ✔ Produk Lokal Wonosobo
 </p>
 
-<a href="https://wa.me/62895379068124" class="btn">
+<a href="https://wa.me/6282182167104" class="btn">
 Order Sekarang
 </a>
 
@@ -302,7 +302,7 @@ Order Sekarang
 Hubungi Kami
 </h2>
 
-<a href="https://wa.me/62895379068124" class="btn">
+<a href="https://wa.me/6282182167104" class="btn">
 WhatsApp
 </a>
 
